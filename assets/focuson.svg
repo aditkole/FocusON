@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+<title id="title">FocusON</title><desc id="desc">A closer look at attention signals.</desc>
+<rect width="900" height="300" rx="12" fill="#f7f3e8"/><rect x="14" y="14" width="872" height="272" rx="5" fill="none" stroke="#c8c8b7"/>
+<text x="45" y="62" font-family="monospace" font-size="16" letter-spacing="3" fill="#32654b">03 / COMPUTER VISION</text>
+<text x="42" y="147" font-family="Georgia,serif" font-size="57" fill="#20251f">FocusON</text>
+<text x="45" y="196" font-family="Arial,sans-serif" font-size="22" fill="#485246">A closer look at attention signals.</text>
+<path d="M45 232H540" stroke="#c8c8b7"/><text x="45" y="262" font-family="monospace" font-size="13" fill="#66705e">ADITYA'S BUILD LAB</text>
+<g transform="translate(675 90)" fill="none" stroke="#32654b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M-15 60Q60-25 135 60Q60 145-15 60Z"/><circle cx="60" cy="60" r="28"/><circle cx="60" cy="60" r="9" fill="#32654b"/><path d="M-5 0V-10H15M105-10H125V0M-5 120V130H15M105 130H125V120" stroke-width="2"/></g></svg>
